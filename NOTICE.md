@@ -1,5 +1,24 @@
 # 归属与许可
 
+```
+gzh-studio - 公众号内容全流程 skill
+Copyright (C) 2026 Roloyty
+
+本作品整体按 GNU Affero General Public License v3.0 或更高版本授权。
+完整许可证文本见根目录 LICENSE。
+
+组成部分与各自的著作权归属:
+
+  vendor/gzh-design/     Copyright (C) 2026 甲木 (Jiamu) x 摸鱼小李 (Moyu Xiaoli)
+                         AGPL-3.0。本作品因包含它而整体适用 AGPL-3.0。
+  vendor/khazix-writer/  Copyright (c) 2026 数字生命卡兹克 (Khazix)   MIT
+  vendor/viral-title/    Copyright (c) kangarooking                   MIT
+  vendor/cover-skill/    Copyright (c) kangarooking                   MIT
+
+MIT 部分在本作品中按其原许可证提供，各自的许可证文本保留在对应目录内。
+把它们与 AGPL 部分组合而成的整体，按 AGPL-3.0 分发。
+```
+
 本 skill 是一个**编排层**。四套上游能力原样 vendored 在 `vendor/` 下，各自的 `LICENSE` 与版权声明都保留在原目录里，没有删改。
 
 ## 上游
